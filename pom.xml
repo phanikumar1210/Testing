@@ -8,6 +8,9 @@
     <name>Sample Spring MVC Application Using AWS CodeStar</name>
     <dependencies>
 
+        
+        
+        
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
